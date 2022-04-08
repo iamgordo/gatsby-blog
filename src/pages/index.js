@@ -78,7 +78,7 @@ const badgeStyle = {
   lineHeight: 1,
 };
 
-// data
+// dataset
 const links = [
   {
     text: "Tutorial",
