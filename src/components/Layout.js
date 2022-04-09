@@ -1,5 +1,8 @@
 import * as React from "react";
 import { Link, useStaticQuery, graphql } from "gatsby";
+import { Global, css } from "@emotion/react";
+import styled from "@emotion/styled";
+
 import {
   container,
   heading,
